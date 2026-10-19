@@ -20,7 +20,7 @@ docker compose up -d
 docker ps
 ```
 
-Passo 2: Executar a gNB (em um terminal)
+### Passo 2: Executar a gNB (em um terminal)
 
 ```
 cd /workspaces/oai-5g-test/openairinterface5g/cmake_targets/ran_build/build
