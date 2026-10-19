@@ -18,6 +18,7 @@ register_nf:
   general: yes
   
 http_version: 2
+http_request_timeout: 20000
 
 ############## SBI Interfaces
 ### Each NF takes its local SBI interfaces and remote interfaces from here, unless it gets them using NRF discovery mechanisms
